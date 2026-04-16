@@ -26,7 +26,7 @@ A professional-grade Python CLI application that places orders on Binance Future
 ### 1. Clone and Setup
 
 ```bash
-cd /Users/sathviks/Downloads/trading_bot
+cd /Users/patelreya/Downloads/trading_bot
 python3 -m venv venv
 source venv/bin/activate
 ```
