@@ -213,7 +213,7 @@ Logs are automatically created in `logs/trading_bot.log`
 
 ## 🧪 Testing Checklist
 
-Before submission, test:
+tests made:
 
 - [ ] Market Buy order
 - [ ] Market Sell order
@@ -325,8 +325,8 @@ Educational project for learning purposes.
 
 ## 👤 Author
 
-Your Name (Internship Project)
+Reya Patel S
 
 ---
 
-**Made with ❤️ for learning and professional development**
+**Thank You*
